@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Auctio - 영국식 실시간 옥션",
+  "description": "최저가 시작 오름차순 실시간 영국식 옥션 플랫폼. 시계, 럭셔리, 스니커즈 실시간 입찰 및 호가 경쟁",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
